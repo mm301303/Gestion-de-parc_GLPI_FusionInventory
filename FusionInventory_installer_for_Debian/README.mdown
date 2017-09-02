@@ -48,7 +48,7 @@ By default, use 'make complete-install'
 
 ### post-install
 	removes install/install.php, 
-	! must only be done ***after a successful glpi setup*** on your web browser
+	This must only be done /!\after a successful glpi setup/!\ on your web browser
 
 
 ## FIX ME
