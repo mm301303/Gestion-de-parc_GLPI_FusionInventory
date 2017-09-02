@@ -22,4 +22,4 @@ Le dossier FusionInventory_for_Windows contient un fichier README.md qui donne l
 
 ### OSX
 
-En cours de test
+Should be working, tested on one client >.>
